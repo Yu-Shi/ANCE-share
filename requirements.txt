@@ -1,3 +1,3 @@
 transformers==2.3.0
-faiss-gpu
 torch==1.6.0
+pyserini==0.11.0.0

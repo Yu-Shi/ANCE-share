@@ -133,6 +133,7 @@ dmypy.json
 
 *.out
 output_models/
-dataset/
 result/
 logs/
+encoder/
+index_dir/
